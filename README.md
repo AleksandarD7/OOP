@@ -1,8 +1,8 @@
 # ReadMe
 
 ## 04.07.24
-- Creating OOP ReadMe File
-- Starting W3Schools
+- Created OOP ReadMe File
+- Started W3Schools
 - user output
 - user input
 - variables

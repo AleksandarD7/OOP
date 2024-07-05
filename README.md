@@ -10,6 +10,6 @@
   
 ## 05.07.24
 - Continued where i stopped yesterday
-- Read about: Operators, Strings, Math, Booleans, If, else and while loop
+- Read about: Operators, Strings, Math, Booleans, If, else, while and for loop
 - Talked about Advent of Code 2023
 - Learned what is flowchar

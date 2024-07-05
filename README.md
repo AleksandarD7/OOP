@@ -3,11 +3,8 @@
 ## 04.07.24
 - Created OOP ReadMe File
 - Started W3Schools
-- user output
-- user input
-- variables
-- data types
-  
+- Read about: User Output, User Input, Variables, Data Types
+
 ## 05.07.24
 - Continued where i stopped yesterday
 - Read about: Operators, Strings, Math, Booleans, If, else, while and for loop

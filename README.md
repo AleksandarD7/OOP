@@ -12,4 +12,4 @@
 - Continued where i stopped yesterday
 - Read about: Operators, Strings, Math, Booleans, If, else and while loop
 - Talked about Advent of Code 2023
-- Talked about flowchar
+- Learned what is flowchar

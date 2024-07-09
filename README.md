@@ -13,6 +13,6 @@
 
 
 ## DAY 3 || 08.07.2024
--  Continued where i stopped yesterday
+-  Continued with W3Schools
 -  Read about: Break/Continue, Arrays and Structures
   

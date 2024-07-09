@@ -1,4 +1,4 @@
-# Progress
+# Progress C++
 
 ## DAY 1 || 04.07.2024
 - Created OOP ReadMe File
@@ -11,8 +11,13 @@
 - Talked about Advent of Code 2023
 - Learned what is flowchar
 
-
 ## DAY 3 || 08.07.2024
--  Continued with W3Schools
--  Read about: Break/Continue, Arrays and Structures
+- Continued with W3Schools
+- Read about: Break/Continue, Arrays and Structures
+
+## DAY 4 || 09.07.2024
+- Continued with W3Schools
+- Read about: Enums, References and Pointers
+- Finished with C++ Tutorial Section
+- Started C++ Functions
   

@@ -20,4 +20,7 @@
 - Read about: Enums, References and Pointers
 - Finished with C++ Tutorial Section
 - Started C++ Functions
-  
+
+## DAY 5 || 10.07.2024
+- Continued with W3Schools
+- Read about: Functions, Function Parameters, Function Overloading

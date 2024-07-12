@@ -21,6 +21,13 @@
 - Finished with C++ Tutorial Section
 - Started C++ Functions
 
-## DAY 5 || 10.07.2024
+## DAY 5 || 10.07.2024 
 - Continued with W3Schools
 - Read about: Functions, Function Parameters, Function Overloading
+
+## DAY 6 || 12.07.2024
+- Continued with W3Schools
+- Read about: Scope and Recursion
+- Finished with C++ Functions
+- Started C++ Classes
+- Read about: OOP, Classes/Objects and Class Methods

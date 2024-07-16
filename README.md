@@ -31,3 +31,7 @@
 - Finished with C++ Functions
 - Started C++ Classes
 - Read about: OOP, Classes/Objects and Class Methods
+
+## DAY 7 || 13.07.2024
+- Continued with W3Schools
+- C++ Constructors, Access Specifiers and Encapsulation

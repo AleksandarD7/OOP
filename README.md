@@ -34,4 +34,8 @@
 
 ## DAY 7 || 13.07.2024
 - Continued with W3Schools
-- C++ Constructors, Access Specifiers and Encapsulation
+- Read about: C++ Constructors, Access Specifiers and Encapsulation
+
+## DAY 8 || 14.07.2024
+- Continued with W3Schools
+- Read about: C++ Inheritance, C++ Polymorphism

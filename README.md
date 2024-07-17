@@ -44,5 +44,5 @@
 - Continued with W3Schools
 - Read About: Files, Exceptions and Date
 - Finished with C++ Classes
-- Started and finished with C++ How To
+- Started and Finished with C++ How To
 

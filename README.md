@@ -32,10 +32,16 @@
 - Started C++ Classes
 - Read about: OOP, Classes/Objects and Class Methods
 
-## DAY 7 || 13.07.2024
+## DAY 7 || 15.07.2024
 - Continued with W3Schools
 - Read about: C++ Constructors, Access Specifiers and Encapsulation
 
-## DAY 8 || 14.07.2024
+## DAY 8 || 16.07.2024
 - Continued with W3Schools
 - Read about: C++ Inheritance, C++ Polymorphism
+
+## DAY 9 || 17.07.2024
+-Continued with W3Schools
+-Read About: Files, Exceptions and Date
+-Finished with C++ Classes
+-Started and finished with C++ How To 

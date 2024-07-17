@@ -41,7 +41,8 @@
 - Read about: C++ Inheritance, C++ Polymorphism
 
 ## DAY 9 || 17.07.2024
--Continued with W3Schools
--Read About: Files, Exceptions and Date
--Finished with C++ Classes
--Started and finished with C++ How To 
+- Continued with W3Schools
+- Read About: Files, Exceptions and Date
+- Finished with C++ Classes
+- Started and finished with C++ How To
+

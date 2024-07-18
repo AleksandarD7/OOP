@@ -46,3 +46,7 @@
 - Finished with C++ Classes
 - Started and Finished with C++ How To
 
+## DAY 10 || 18.07.2024
+- Continued with W3SChools
+- Read about: C++ References
+- Finished W3Schools C++
